@@ -1,0 +1,50 @@
+.logo{
+    width: 2.5em;
+}
+
+.jumbotron{
+    background-color: rgb(184, 221, 253);
+    padding: 2em;
+    border-radius: 4px;
+    margin: auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.container{
+    margin-bottom: 4em;
+}
+
+.titleSection{
+    margin-bottom: 1em;
+}
+
+.cards{
+    margin-bottom: 1.5em;
+}
+
+.littleBtn{
+    width: 20px;
+}
+
+.noBorder{
+    border: none;
+}
+
+span{
+    font-weight: 500;
+}
+
+.avatar{
+    width: 2em;
+    height: 2em;
+}
+
+footer{
+    padding: 2em;
+    background-color: rgb(0, 84, 152);
+}
+
+footer p{
+    color: white;
+}
